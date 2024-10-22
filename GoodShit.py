@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# << CODE BY HUNX04
+# << CODE BY GOODSHIT
 # << MAU RECODE ??? IZIN DULU LAH,  MINIMAL TAG AKUN GITHUB MIMIN YANG MENGARAH KE AKUN INI, LEBIH GAMPANG SI PAKE FORK
 # << KALAU DI ATAS TIDAK DI IKUTI MAKA AKAN MENDAPATKAN DOSA KARENA MIMIN GAK IKHLAS
 # “Wahai orang-orang yang beriman! Janganlah kamu saling memakan harta sesamamu dengan jalan yang batil,” (QS. An Nisaa': 29). Rasulullah SAW juga melarang umatnya untuk mengambil hak orang lain tanpa izin.
@@ -260,13 +260,14 @@ def option():
     # BANNER TOOLS
     clear()
     stderr.writelines(f"""
-       ________               __      ______                __  
-      / ____/ /_  ____  _____/ /_    /_  __/________ ______/ /__
-     / / __/ __ \/ __ \/ ___/ __/_____/ / / ___/ __ `/ ___/ //_/
-    / /_/ / / / / /_/ (__  ) /_/_____/ / / /  / /_/ / /__/ ,<   
-    \____/_/ /_/\____/____/\__/     /_/ /_/   \__,_/\___/_/|_| 
 
-              {Wh}[ + ]  C O D E   B Y  H U N X  [ + ]
+                  ┏━━━┳━━━┳━━━┳━━━┳━━━┳┓╋┏┳━━┳━━━━┓
+                  ┃┏━┓┃┏━┓┃┏━┓┣┓┏┓┃┏━┓┃┃╋┃┣┫┣┫┏┓┏┓┃
+                  ┃┃╋┗┫┃╋┃┃┃╋┃┃┃┃┃┃┗━━┫┗━┛┃┃┃┗┛┃┃┗┛
+                  ┃┃┏━┫┃╋┃┃┃╋┃┃┃┃┃┣━━┓┃┏━┓┃┃┃╋╋┃┃
+                  ┃┗┻━┃┗━┛┃┗━┛┣┛┗┛┃┗━┛┃┃╋┃┣┫┣┓╋┃┃
+                  ┗━━━┻━━━┻━━━┻━━━┻━━━┻┛╋┗┻━━┛╋┗┛
+              {Wh}[ + ]  CODE   BY  GOODSHIT  [ + ]
     """)
 
     stderr.writelines(f"\n\n\n{option_text()}")
@@ -278,8 +279,8 @@ def run_banner():
     stderr.writelines(f"""{Wh}
          .-.
        .'   `.          {Wh}--------------------------------
-       :g g   :         {Wh}| {Gr}GHOST - TRACKER - IP ADDRESS {Wh}|
-       : o    `.        {Wh}|       {Gr}@CODE BY HUNXBYTS      {Wh}|
+       :g g   :         {Wh}| {Gr}GOODSHIT - TRACKER - IP ADDRESS {Wh}|
+       : o    `.        {Wh}|       {Gr}@CODE BY GOODSHIT      {Wh}|
       :         ``.     {Wh}--------------------------------
      :             `.
     :  :         .   `.
